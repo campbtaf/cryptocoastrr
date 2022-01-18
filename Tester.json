@@ -5,9 +5,9 @@
   "intermediate-cars": "1",
   "coin": "BTC",
 
-  "api_key": "0fdfb55075f82b4156e87ed26dbab70f",
-  "secret": "IKAiUo+B2yX644AlGegHb/K3bSwHFsdw4ar6+TleKsyxcOEFLkPxClbhFfS9fHLcGhQggBmH16lryg6p9K9R5Q==",
-  "passphrase": "test",
+  "api_key": "",
+  "secret": "",
+  "passphrase": "",
 
   "phone_number": "",
 
